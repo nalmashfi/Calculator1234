@@ -25,4 +25,8 @@ public class Calculator_12234 {
         return x- y;
     }
     
+    public static int multiply(int x, int y) {
+        return x*y;
+    }
+    
 }
