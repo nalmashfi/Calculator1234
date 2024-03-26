@@ -17,6 +17,12 @@ public class Calculator_12234 {
         // TODO code application logic here
     }
     
+    /**
+     * 
+     * @param x first number
+     * @param y second number
+     * @return sum of x and y
+     */
     public static int add(int x, int y) {
         return x+y;
     }
@@ -31,4 +37,5 @@ public class Calculator_12234 {
 
     public static int divide(int x, int y) {
         return x/y;
+    }
 }
