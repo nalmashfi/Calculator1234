@@ -24,7 +24,7 @@ public class Calculator_12234 {
      * @return sum of x and y
      */
     public static int add(int x, int y) {
-        return x+y;
+        return (x+y);
     }
     
     public static int subtract(int x, int y) {
