@@ -23,8 +23,8 @@ public class Calculator_12234 {
      * @param y second number
      * @return sum of x and y
      */
-    public static int add(int x, int y) {
-        return (x+y);
+    public static int add(int x, int y, int z) {
+        return (x+y+z);
     }
     
     public static int subtract(int x, int y) {
